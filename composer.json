@@ -1,0 +1,11 @@
+{
+	"repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/frostsound/origin"
+        }
+    ],
+	    "require": {
+        "origin/log_file": "dev-1"
+		}
+}
