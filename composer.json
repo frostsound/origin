@@ -6,6 +6,6 @@
         }
     ],
 	    "require": {
-        "origin/log_file": "dev-1"
+        "origin/log_file": "1"
 		}
 }
